@@ -10,5 +10,5 @@ repositories:
     version: pr-xacro_as_subsititution
   libfranka:
     type: git
-    url: https://github.com/frankaemika/libfranka
-    version: master
+    url: https://github.com/frankaemika/libfranka-release.git
+    version: release/foxy/libfranka
