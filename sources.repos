@@ -4,11 +4,7 @@ repositories:
     type: git
     url: https://github.com/JafarAbdi/franka_ros2.git
     version: humble
-  moveit2:
-    type: git
-    url: https://github.com/JafarAbdi/moveit2.git
-    version: pr-xacro_as_subsititution
   libfranka:
     type: git
     url: https://github.com/JafarAbdi/libfranka-release.git
-    version: release/foxy/libfranka
+    version: upstream/0.9.2
