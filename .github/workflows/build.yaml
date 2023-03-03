@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: ROS buildfarm
-        uses: jspricke/ros-deb-builder-action@rosotest
+        uses: jspricke/ros-deb-builder-action
         with:
           DEB_DISTRO: jammy
           ROS_DISTRO: humble
