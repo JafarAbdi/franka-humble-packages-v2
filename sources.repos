@@ -8,3 +8,15 @@ repositories:
     type: git
     url: https://github.com/JafarAbdi/libfranka-release.git
     version: humble
+  moveit2:
+    type: git
+    url: https://github.com/JafarAbdi/moveit2.git
+    version: feature/update-bindings
+  topic_based_ros2_control:
+    type: git
+    url: https://github.com/JafarAbdi/topic_based_ros2_control.git
+    version: main
+  launch_param_builder:
+    type: git
+    url: https://github.com/JafarAbdi/launch_param_builder.git
+    version: main
