@@ -3,7 +3,7 @@ repositories:
   ros2_controllers:
     type: git
     url: https://github.com/JafarAbdi/ros2_controllers.git
-    version: jtc_fix_initial_pose
+    version: pr-jtc_fix_initial_pose
   franka_ros2:
     type: git
     url: https://github.com/JafarAbdi/franka_ros2.git
@@ -15,7 +15,7 @@ repositories:
   moveit2:
     type: git
     url: https://github.com/JafarAbdi/moveit2.git
-    version: feature/update-bindings
+    version: main
   topic_based_ros2_control:
     type: git
     url: https://github.com/JafarAbdi/topic_based_ros2_control.git
@@ -24,3 +24,11 @@ repositories:
     type: git
     url: https://github.com/JafarAbdi/launch_param_builder.git
     version: main
+  universal_robots_ros2_driver:
+    type: git
+    url: https://github.com/JafarAbdi/Universal_Robots_ROS2_Driver.git
+    version: humble
+  universal_robots_ros2_description:
+    type: git
+    url: https://github.com/JafarAbdi/Universal_Robots_ROS2_Description.git
+    version: ros2
