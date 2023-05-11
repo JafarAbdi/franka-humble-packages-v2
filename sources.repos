@@ -32,3 +32,7 @@ repositories:
     type: git
     url: https://github.com/JafarAbdi/Universal_Robots_ROS2_Description.git
     version: ros2
+  moveit_msgs:
+    type: git
+    url: https://github.com/JafarAbdi/moveit_msgs.git
+    version: ros2
